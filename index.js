@@ -1,4 +1,4 @@
-require('dotenv').config();
+// require('dotenv').config();
 // console.log(process.env);
 console.log('welcome to node js');
 const express =require('express');
